@@ -8,6 +8,6 @@
 
 # Steps to run longest word code.
 
-1. RUN ```python3 main.py --filename <path_to_file>
+1. RUN ```python3 main.py --filename <path_to_file>```
 2. Output is the longest word in the longest paragraph.
 
